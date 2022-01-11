@@ -17,6 +17,13 @@ Adjusted
 ![Adjusted District](../main/Resources/district_adjusted.png)
 
 ## School Summary
+Original
+
+![Original District](../main/Resources/thomas_original.png)
+
+Adjusted
+
+![Adjusted District](../main/Resources/thomas_adjusted.png)
 
 ## Relative Performance
 
