@@ -6,8 +6,8 @@ After completing the intial district analysis, it was identified that there was 
 There were a total of 461 students at Thomas High School in the ninth grade who had their test results removed from the analysis below.
 
 ## District Summary
-
-
+![Original District](../main/Resources/district_orginal.png)
+![Adjusted District](../main/Resources/district_adjusted.png)
 ## School Summary
 
 ## Relative Performance
