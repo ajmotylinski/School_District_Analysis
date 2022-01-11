@@ -29,14 +29,42 @@ Adjusted
 
 ## Relative Performance
 
+Thomas High School still was the second highest school in overall passing percentage after removing the test scores for their ninth grade students.
 
+### Scores by grade
+The only impact to the scores by grade was that the ninth grade were empty which left the tenth, eleventh, and twelfth grade scores untouched.
 
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
-Scores by school spending
-Scores by school size
-Scores by school type
+### Scores by spending
+There was no real impact to the scores by spending.
+
+Original
+
+![Original District](../main/Resources/school_spending_original.png)
+
+Adjusted
+
+![Adjusted District](../main/Resources/school_spending_adjusted.png)
+
+### Scores by size
+There was no real impact to the scores by size.
+Original
+
+![Original District](../main/Resources/school_size_original.png)
+
+Adjusted
+
+![Adjusted District](../main/Resources/school_size_adjusted.png)
+
+### Scores by type
+There was no real impact to the scores by type.
+Original
+
+![Original District](../main/Resources/school_type_original.png)
+
+Adjusted
+
+![Adjusted District](../main/Resources/school_type_adjusted.png)
+
 # Analysis
 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+The district summary was minimally impacted by removing the scores for the ninth grade at Thompson High School. The average math score dropped by 0.1 while the average reading score was not impacted. The passing percentage for math decreased by 0.2% points and the passing perecentage for reading dropped by 0.1% points. The impact to the overall passing percentage was a decrease of 0.3%.
